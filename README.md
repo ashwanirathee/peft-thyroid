@@ -11,7 +11,7 @@ Title: Improving thyroid nodule classification with PEFT techniques on Medical L
 
 #### Trained Weights:
 - [LoRa weights](https://www.kaggle.com/models/ashkhagan/llava-med-lora-epoch5/)
-- [BitFit weights](https://www.kaggle.com/models/ashkhagan/llava-med-bitfitbase-epoch5)
+- [BitFit weights](https://www.kaggle.com/models/murphy16/llava-med-bitfitbase-epoch5)
 
 #### Stages of the study for 244c
 - Dataset finalization
